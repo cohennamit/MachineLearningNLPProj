@@ -26,4 +26,4 @@ By analyzing the TF-IDF weights, the model successfully learned the semantic dif
 
 ## Authors
 * **Amit H.**
-* **Amit K.**
+* **Amit C.**
